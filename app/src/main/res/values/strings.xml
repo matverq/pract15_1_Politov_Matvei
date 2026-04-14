@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pract15_1_m</string>
+    <string name="hello">ПРИВЕТ</string>
+    <string name="naslazd">Наслаждайся отборочными.</string>
+    <string name="bud">Будь внимателен.</string>
+    <string name="delai">Делай хорошо.</string>
+    <string name="login">Войти в аккаунт</string>
+    <string name="eshe">Ещё нет аккаунта?</string>
+    <string name="zareg">Зарегистрируйтесь</string>
+    <string name="sign">Sign in</string>
+    <string name="Email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="reg">Register</string>
+    <string name="prof">Профиль</string>
+</resources>
