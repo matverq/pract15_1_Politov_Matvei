@@ -12,4 +12,14 @@
     <string name="password">Пароль</string>
     <string name="reg">Register</string>
     <string name="prof">Профиль</string>
+    <string name="back">С возвращением, Матвей</string>
+    <string name="chuvst">Каким ты ощущаешь себя сегодня?</string>
+    <string name="p1">Спокойным</string>
+    <string name="p2">Расслабленным</string>
+    <string name="p3">Сосредоточенным</string>
+    <string name="p4">Взволнованным</string>
+    <string name="c1">Заголовок блока</string>
+    <string name="c2">Кратенькое описание блока с двумя строчками</string>
+    <string name="c3">Подробнее</string>
+    <string name="c4"></string>
 </resources>
