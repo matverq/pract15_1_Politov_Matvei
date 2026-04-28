@@ -285,11 +285,11 @@
             app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <ImageView
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/imageView5"
         android:layout_width="45dp"
         android:layout_height="49dp"
-        android:src="@drawable/logo"
+        android:background="@drawable/logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -297,22 +297,20 @@
         app:layout_constraintVertical_bias="0.97"
         app:layout_constraintHorizontal_bias="0.17"/>
 
-    <ImageView
-        android:id="@+id/imageView6"
+    <androidx.appcompat.widget.AppCompatButton
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:src="@drawable/music"
+        android:background="@drawable/music"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.484"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.961" />
-    <ImageView
-        android:id="@+id/imageView7"
+    <androidx.appcompat.widget.AppCompatButton
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:src="@drawable/charster"
+        android:background="@drawable/charster"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.76"

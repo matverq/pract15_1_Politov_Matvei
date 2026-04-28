@@ -22,4 +22,8 @@
     <string name="c2">Кратенькое описание блока с двумя строчками</string>
     <string name="c3">Подробнее</string>
     <string name="c4"></string>
+    <string name="title_activity_ui">ui</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
